@@ -1,0 +1,22 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "our node project",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsuialan/nodeproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsuialan/nodeproject/issues"
+  },
+  "homepage": "https://github.com/tsuialan/nodeproject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
